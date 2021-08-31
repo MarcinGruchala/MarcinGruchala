@@ -1,7 +1,7 @@
 ## Hello 👋 
 
 ### About me 👀
-I am a student of Control Engineering and Robotics at Wrocław University of Science and Technology. Most recently I’ve got interested in mobile dev. Values maintainable, readable, high-quality code. Familiar with basics of several programming languages, strongest in Android development and Python. Looking forward to learning new things and gain experience.
+I am a student of Control Engineering and Robotics at Wrocław University of Science and Technology. I am passionate about mobile dev. Values maintainable, readable, high-quality code. Familiar with basics of several programming languages, strongest in Android development and Python. Looking forward to learning new things and gain experience.
 ### Contact me 📮
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-grucha%C5%82a-20861520a/)
 ### Technologies I use 🔨
